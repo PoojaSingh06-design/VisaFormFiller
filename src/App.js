@@ -1,3 +1,4 @@
+import './tailwind-classes.css';
 import React, { useState } from 'react';
 import { Upload, FileText, Sparkles, CheckCircle, AlertCircle, Trash2, Globe, Plane, ChevronDown, Download, Eye } from 'lucide-react';
 
